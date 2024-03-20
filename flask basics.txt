@@ -1,0 +1,3 @@
+create_all is a method for creating all the tables defined in our models
+usermixing is a module imported from flask_login it provides built in methods for user authentication eg is_authenticated is_active() etc 
+
